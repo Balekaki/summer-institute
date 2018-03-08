@@ -1,6 +1,6 @@
 ---
+partner_site: capetown
 layout: default
-title: Apply
 ---
 
 # Eligibility
